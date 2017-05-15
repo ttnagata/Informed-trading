@@ -1,8 +1,8 @@
 # Informed trading estimation
 
-> Master thesis: Assessment of informed trading in the Brazilian equity market: Market cleanliness methodology
-> Author: Tatiana Tiemi Nagata
-> Version: 0.1.0
+> Master thesis: Assessment of informed trading in the Brazilian equity market: Market cleanliness methodology  
+Author: Tatiana Tiemi Nagata  
+Version: 0.1.0
 
 This repository contains the code for the estimation of informed trading used in the master thesis titled: "Assessment of informed trading in the Brazilian equity market: Market cleanliness methodology." The thesis was submitted to the Graduate School of Public Policy, The University of Tokyo, for the degree of Master in Public Policy in August 2017.
 
